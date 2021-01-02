@@ -2,9 +2,9 @@
 Suporte apenas para Gmail
 
 ## Use
-deve funcionar em todas as distros Linux que executam Python 2.7. Primeiro, clone-o digitando o seguinte comando no terminall
+Deve funcionar em todas as distros Linux que executam Python 2.7. Primeiro, clone-o digitando o seguinte comando no terminall
 ``` bash
-git clone https://github.com/CrackerUserModder/GmailBomber
+git clone https://github.com/CrackerUserModder/GmailBomber.git
 ```
 Agora navegue até o diretório GmailBomber
 ``` bash
