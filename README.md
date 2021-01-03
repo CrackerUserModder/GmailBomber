@@ -5,7 +5,7 @@
 <a href="https://github.com/CrackerUserModder"><img title="Author" src="https://img.shields.io/badge/Autor-Poxa'h Lilith-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="WaBot" src="https://img.shields.io/badge/Whatsapp Bot-red?colorA=%23ff1a1a&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WaBot" src="https://img.shields.io/badge/Gmail Bomber-red?colorA=%23ff1a1a&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
