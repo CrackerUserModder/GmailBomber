@@ -21,12 +21,12 @@ INICIANDO ATAQUE! AGUARDE.
 
 os.system('clear')
 try:
-	file1 = open('Banner.txt', 'r')
+	file1 = open('Cracker.txt', 'r')
 	print(' ')
 	print bcolors.OKGREEN + file1.read() + bcolors.ENDC
 	file1.close()
 except IOError:
-	print('Banner File not found')
+	print('Cracker nao encontrado')
 
 
 #Input
