@@ -26,7 +26,7 @@ try:
 	print bcolors.OKGREEN + file1.read() + bcolors.ENDC
 	file1.close()
 except IOError:
-	print('Cracker não encontrado')
+	print('Cracker nao encontrado')
 
 #Input
 print(bcolors.WARNING + '''
